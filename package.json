@@ -1,0 +1,22 @@
+{
+	"name": "old-community-material-theme-palenight-hight-contrast",
+	"publisher": "Foxterino",
+	"displayName": "Old Community Material Theme Palenight Hight Contrast",
+	"description": "",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.43.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Old Community Palenight",
+				"uiTheme": "hc-black",
+				"path": "./themes/Old Community Palenight-color-theme.json"
+			}
+		]
+	}
+}
